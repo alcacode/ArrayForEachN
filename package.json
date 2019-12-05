@@ -1,0 +1,25 @@
+{
+  "name": "foreachn",
+  "version": "1.0.0",
+  "description": "Implements Array.prototype.forEachN which calls a callback with for every <n> member(s) of the array.",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.14"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Array",
+    "global"
+  ],
+  "author": "alcacode",
+  "license": "GPL-2.0-only",
+  "types": "lib/forEachN",
+  "private": true
+}
